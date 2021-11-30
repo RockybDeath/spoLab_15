@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/Киря/source/repos/CMakeProject2/CMakeProject2/datafile/blocks.h
+stddef.h
+-
+bits/types/FILE.h
+-
+cells.h
+/mnt/c/Users/Киря/source/repos/CMakeProject2/CMakeProject2/datafile/cells.h
+
+/mnt/c/Users/Киря/source/repos/CMakeProject2/CMakeProject2/datafile/cells.h
+stdint.h
+-
+
+/mnt/c/Users/Киря/source/repos/CMakeProject2/CMakeProject2/debug/datafile_main.c
+stdio.h
+-
+../datafile/cells.h
+/mnt/c/Users/Киря/source/repos/CMakeProject2/CMakeProject2/datafile/cells.h
+../datafile/blocks.h
+/mnt/c/Users/Киря/source/repos/CMakeProject2/CMakeProject2/datafile/blocks.h
+

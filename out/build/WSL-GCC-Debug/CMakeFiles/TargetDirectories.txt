@@ -1,0 +1,7 @@
+/mnt/c/Users/Киря/source/repos/CMakeProject2/out/build/WSL-GCC-Debug/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/Киря/source/repos/CMakeProject2/out/build/WSL-GCC-Debug/CMakeFiles/edit_cache.dir
+/mnt/c/Users/Киря/source/repos/CMakeProject2/out/build/WSL-GCC-Debug/CMakeProject2/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/Киря/source/repos/CMakeProject2/out/build/WSL-GCC-Debug/CMakeProject2/CMakeFiles/server.dir
+/mnt/c/Users/Киря/source/repos/CMakeProject2/out/build/WSL-GCC-Debug/CMakeProject2/CMakeFiles/client.dir
+/mnt/c/Users/Киря/source/repos/CMakeProject2/out/build/WSL-GCC-Debug/CMakeProject2/CMakeFiles/edit_cache.dir
+/mnt/c/Users/Киря/source/repos/CMakeProject2/out/build/WSL-GCC-Debug/CMakeProject2/CMakeFiles/datafile.dir

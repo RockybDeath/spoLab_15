@@ -1,0 +1,39 @@
+{
+  "version": "0.2.1",
+  "defaults": {},
+  "configurations": [
+    {
+      "type": "cppgdb",
+      "name": "server (CMakeProject2\\server)",
+      "project": "CMakeLists.txt",
+      "projectTarget": "server (CMakeProject2\\server)",
+      "comment": "Сведения о настройке отладки WSL. Дополнительные сведения см. на странице http://aka.ms/vslinuxdebug.",
+      "debuggerConfiguration": "gdb",
+      "args": [
+        "8080",
+        "~/result.xml"
+      ],
+      "env": {}
+    },
+    {
+      "type": "cppgdb",
+      "name": "client (CMakeProject2\\client)",
+      "project": "CMakeLists.txt",
+      "projectTarget": "client (CMakeProject2\\client)",
+      "comment": "Сведения о настройке отладки WSL. Дополнительные сведения см. на странице http://aka.ms/vslinuxdebug.",
+      "debuggerConfiguration": "gdb",
+      "args": ["8080"],
+      "env": {}
+    },
+    {
+      "type": "cppgdb",
+      "name": "datafile (CMakeProject2\\datafile)",
+      "project": "CMakeLists.txt",
+      "projectTarget": "datafile (CMakeProject2\\datafile)",
+      "comment": "Сведения о настройке отладки WSL. Дополнительные сведения см. на странице http://aka.ms/vslinuxdebug.",
+      "debuggerConfiguration": "gdb",
+      "args": [],
+      "env": {}
+    }
+  ]
+}
